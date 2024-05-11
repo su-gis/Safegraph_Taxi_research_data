@@ -2,9 +2,9 @@
 
 ## Data1_Taxi_SafeGraph_Trips.csv
 
-O_zone: Taxi zone number of origin locations.
-d_zone: Taxi zone number of destination locations.
-sg_count: SafeGraph trip count.
+- O_zone: Taxi zone number of origin locations.
+- d_zone: Taxi zone number of destination locations.
+- sg_count: SafeGraph trip count.
 Taxi_count: Taxi trip count.
 o_zoneName: Name of origin taxi zones.
 d_zoneName: Name of destination taxi zones.
@@ -44,4 +44,4 @@ commute10-29min: Percentage of population whose travel time to work is 10 to 29 
 commute30-59min: Percentage of population whose travel time to work is 30 to 59 minutes
 commute>60min: Percentage of population whose travel time to work is more than 60 minutes
 
-## NYC taxi zone shapefile is under the folder: NYC_Taxi_Zone_shapefile
+### NYC taxi zone shapefile is under the folder: NYC_Taxi_Zone_shapefile
